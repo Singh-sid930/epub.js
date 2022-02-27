@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/67517</dc:identifier>
+    <dc:creator opf:file-as="Garner, R. L. (Richard Lynch)">R. L. Garner</dc:creator>
+    <dc:title>Apes and Monkeys: Their Life and Language</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:date opf:event="publication">2022-02-27</dc:date>
+    <dc:date opf:event="conversion">2022-02-27T20:00:16.068510+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/67517/67517-h/67517-h.htm</dc:source>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 736 x 1100 size=245800 -->
+    <item href="335834552496247594_cover.jpg" id="item1" media-type="image/jpeg"/>
+    <!--Image: 674 x 1000 size=208489 -->
+    <item href="335834552496247594_001.jpg" id="item2" media-type="image/jpeg"/>
+    <!--Image: 903 x 924 size=112444 -->
+    <item href="335834552496247594_002.jpg" id="item3" media-type="image/jpeg"/>
+    <!--Image: 812 x 1136 size=52056 -->
+    <item href="335834552496247594_003.jpg" id="item4" media-type="image/jpeg"/>
+    <!--Image: 805 x 1000 size=54208 -->
+    <item href="335834552496247594_004.jpg" id="item5" media-type="image/jpeg"/>
+    <!--Image: 1332 x 1148 size=86715 -->
+    <item href="335834552496247594_005.jpg" id="item6" media-type="image/jpeg"/>
+    <!--Image: 1695 x 900 size=91980 -->
+    <item href="335834552496247594_006.jpg" id="item7" media-type="image/jpeg"/>
+    <!--Image: 1162 x 1000 size=194014 -->
+    <item href="335834552496247594_007.jpg" id="item8" media-type="image/jpeg"/>
+    <!--Image: 1000 x 750 size=244795 -->
+    <item href="335834552496247594_008.jpg" id="item9" media-type="image/jpeg"/>
+    <!--Image: 1250 x 709 size=150708 -->
+    <item href="335834552496247594_009.jpg" id="item10" media-type="image/jpeg"/>
+    <!--Image: 1000 x 685 size=220641 -->
+    <item href="335834552496247594_010.jpg" id="item11" media-type="image/jpeg"/>
+    <!--Image: 677 x 1000 size=237418 -->
+    <item href="335834552496247594_011.jpg" id="item12" media-type="image/jpeg"/>
+    <!--Image: 686 x 950 size=200526 -->
+    <item href="335834552496247594_012.jpg" id="item13" media-type="image/jpeg"/>
+    <!--Image: 635 x 1000 size=251727 -->
+    <item href="335834552496247594_013.jpg" id="item14" media-type="image/jpeg"/>
+    <!--Image: 1006 x 796 size=237287 -->
+    <item href="335834552496247594_014.jpg" id="item15" media-type="image/jpeg"/>
+    <!--Image: 658 x 950 size=199501 -->
+    <item href="335834552496247594_015.jpg" id="item16" media-type="image/jpeg"/>
+    <!--Image: 1000 x 655 size=213397 -->
+    <item href="335834552496247594_016.jpg" id="item17" media-type="image/jpeg"/>
+    <!--Image: 661 x 1000 size=205335 -->
+    <item href="335834552496247594_017.jpg" id="item18" media-type="image/jpeg"/>
+    <!--Image: 610 x 950 size=210178 -->
+    <item href="335834552496247594_018.jpg" id="item19" media-type="image/jpeg"/>
+    <!--Image: 746 x 950 size=169177 -->
+    <item href="335834552496247594_019.jpg" id="item20" media-type="image/jpeg"/>
+    <!--Image: 1000 x 772 size=224554 -->
+    <item href="335834552496247594_020.jpg" id="item21" media-type="image/jpeg"/>
+    <!--Image: 676 x 1000 size=161330 -->
+    <item href="335834552496247594_021.jpg" id="item22" media-type="image/jpeg"/>
+    <!--Image: 807 x 1000 size=198310 -->
+    <item href="335834552496247594_022.jpg" id="item23" media-type="image/jpeg"/>
+    <!--Image: 1000 x 684 size=225874 -->
+    <item href="335834552496247594_023.jpg" id="item24" media-type="image/jpeg"/>
+    <!--Image: 1000 x 665 size=222724 -->
+    <item href="335834552496247594_024.jpg" id="item25" media-type="image/jpeg"/>
+    <!--Image: 1000 x 768 size=175987 -->
+    <item href="335834552496247594_025.jpg" id="item26" media-type="image/jpeg"/>
+    <!--Image: 803 x 1000 size=218624 -->
+    <item href="335834552496247594_026.jpg" id="item27" media-type="image/jpeg"/>
+    <!--Image: 839 x 1000 size=222392 -->
+    <item href="335834552496247594_027.jpg" id="item28" media-type="image/jpeg"/>
+    <!--Image: 682 x 1000 size=207428 -->
+    <item href="335834552496247594_028.jpg" id="item29" media-type="image/jpeg"/>
+    <!--Image: 1000 x 705 size=175828 -->
+    <item href="335834552496247594_029.jpg" id="item30" media-type="image/jpeg"/>
+    <!--Image: 950 x 771 size=222551 -->
+    <item href="335834552496247594_030.jpg" id="item31" media-type="image/jpeg"/>
+    <item href="pgepub.css" id="item32" media-type="text/css"/>
+    <item href="0.css" id="item33" media-type="text/css"/>
+    <item href="1.css" id="item34" media-type="text/css"/>
+    <!--Chunk: size=2557 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-0.htm.html" id="item35" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=1379 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-1.htm.html" id="item36" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=1212 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-2.htm.html" id="item37" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=3453 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-3.htm.html" id="item38" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=12256 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-4.htm.html" id="item39" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=11140 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-5.htm.html" id="item40" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=5584 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-6.htm.html" id="item41" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=1002 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-7.htm.html" id="item42" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=18736 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-8.htm.html" id="item43" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=21902 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-9.htm.html" id="item44" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=11528 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-10.htm.html" id="item45" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=13058 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-11.htm.html" id="item46" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=12445 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-12.htm.html" id="item47" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=12527 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-13.htm.html" id="item48" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=13696 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-14.htm.html" id="item49" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=16440 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-15.htm.html" id="item50" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=18837 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-16.htm.html" id="item51" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=13485 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-17.htm.html" id="item52" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=27003 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-18.htm.html" id="item53" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=16579 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-19.htm.html" id="item54" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=26926 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-20.htm.html" id="item55" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=17549 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-21.htm.html" id="item56" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=17389 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-22.htm.html" id="item57" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=24995 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-23.htm.html" id="item58" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=13940 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-24.htm.html" id="item59" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=44541 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-25.htm.html" id="item60" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=16107 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-26.htm.html" id="item61" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=32916 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-27.htm.html" id="item62" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=27513 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-28.htm.html" id="item63" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=33415 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-29.htm.html" id="item64" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=20458 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-30.htm.html" id="item65" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=13019 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-31.htm.html" id="item66" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=98659 Split on ul.index-->
+    <item href="8000660580313922485_67517-h-32.htm.html" id="item67" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=68904 Split on div.chapter-->
+    <item href="8000660580313922485_67517-h-33.htm.html" id="item68" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=23851-->
+    <item href="8000660580313922485_67517-h-34.htm.html" id="item69" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="item35" linear="yes"/>
+    <itemref idref="item36" linear="yes"/>
+    <itemref idref="item37" linear="yes"/>
+    <itemref idref="item38" linear="yes"/>
+    <itemref idref="item39" linear="yes"/>
+    <itemref idref="item40" linear="yes"/>
+    <itemref idref="item41" linear="yes"/>
+    <itemref idref="item42" linear="yes"/>
+    <itemref idref="item43" linear="yes"/>
+    <itemref idref="item44" linear="yes"/>
+    <itemref idref="item45" linear="yes"/>
+    <itemref idref="item46" linear="yes"/>
+    <itemref idref="item47" linear="yes"/>
+    <itemref idref="item48" linear="yes"/>
+    <itemref idref="item49" linear="yes"/>
+    <itemref idref="item50" linear="yes"/>
+    <itemref idref="item51" linear="yes"/>
+    <itemref idref="item52" linear="yes"/>
+    <itemref idref="item53" linear="yes"/>
+    <itemref idref="item54" linear="yes"/>
+    <itemref idref="item55" linear="yes"/>
+    <itemref idref="item56" linear="yes"/>
+    <itemref idref="item57" linear="yes"/>
+    <itemref idref="item58" linear="yes"/>
+    <itemref idref="item59" linear="yes"/>
+    <itemref idref="item60" linear="yes"/>
+    <itemref idref="item61" linear="yes"/>
+    <itemref idref="item62" linear="yes"/>
+    <itemref idref="item63" linear="yes"/>
+    <itemref idref="item64" linear="yes"/>
+    <itemref idref="item65" linear="yes"/>
+    <itemref idref="item66" linear="yes"/>
+    <itemref idref="item67" linear="yes"/>
+    <itemref idref="item68" linear="yes"/>
+    <itemref idref="item69" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="CONTENTS" href="8000660580313922485_67517-h-4.htm.html#CONTENTS"/>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

@@ -1,0 +1,164 @@
+/**/
+body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    /* all headings centered */
+    clear: both
+    }
+p {
+    margin-top: 0.51em;
+    text-align: justify;
+    margin-bottom: 0.49em;
+    text-indent: 1em
+    }
+.p1 {
+    margin-top: 1em
+    }
+.p2 {
+    margin-top: 2em
+    }
+.p0 {
+    text-indent: 0
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 33.5%;
+    margin-right: 33.5%;
+    clear: both
+    }
+abbr[title] {
+    text-decoration: none
+    }
+hr.tb {
+    width: 45%;
+    margin-left: 27.5%;
+    margin-right: 27.5%
+    }
+hr.chap {
+    width: 65%;
+    margin-left: 17.5%;
+    margin-right: 17.5%
+    }
+@media print {
+    hr.chap {
+        display: none;
+        visibility: hidden
+        }
+    }
+hr.r5 {
+    width: 5%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 47.5%;
+    margin-right: 47.5%
+    }
+div.chapter {
+    page-break-before: always
+    }
+h2.nobreak {
+    page-break-before: avoid
+    }
+ul.index {
+    list-style-type: none;
+    margin-top: 3em
+    }
+li.ifrst {
+    margin-top: 1em;
+    text-indent: -2em;
+    padding-left: 1em
+    }
+li.isuba {
+    text-indent: -2em;
+    padding-left: 2em
+    }
+li.isubb {
+    text-indent: -2em;
+    padding-left: 3em
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+table.autotable {
+    border-collapse: collapse;
+    font-size: 1.1em;
+    width: 90%
+    }
+.x-ebookmaker table {
+    width: 95%
+    }
+.tdr {
+    text-align: right
+    }
+.tdc {
+    text-align: center
+    }
+.pagenum {
+    /* uncomment the next line for invisible page numbers */
+    /*  visibility: hidden;  */
+    font-size: smaller;
+    text-align: right;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal
+    }
+/* page numbers */
+.heading {
+    font-size: 1.1em
+    }
+.center {
+    text-align: center
+    }
+.right {
+    text-align: right
+    }
+.smcap {
+    font-variant: small-caps
+    }
+.allsmcap {
+    font-variant: small-caps;
+    text-transform: lowercase
+    }
+.caption {
+    font-weight: bold
+    }
+/* Images */
+img {
+    max-width: 100%;
+    height: auto
+    }
+img.w75 {
+    width: 75%
+    }
+.w50 {
+    width: 50%
+    }
+.figcenter {
+    margin: auto;
+    text-align: center;
+    page-break-inside: avoid;
+    max-width: 100%
+    }
+/* Poetry */
+.poetry {
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%
+    }
+/* uncomment the next line for centered poetry in browsers */
+/* .poetry           {display: inline-block;} */
+/* large inline blocks don't split well on paged devices */
+@media print {
+    .poetry {
+        display: block
+        }
+    }
+.x-ebookmaker .poetry {
+    display: block
+    }
+/**/
