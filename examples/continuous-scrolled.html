@@ -32,7 +32,7 @@
   <script>
     var currentSectionIndex = 8;
     // Load the opf
-    var book = ePub("../books/snake_creek/content.opf");
+    var book = ePub("https://s3.amazonaws.com/epubjs/books/moby-dick/OPS/package.opf");
     var rendition = book.renderTo(document.body, {
         manager: "continuous",
         flow: "scrolled",
